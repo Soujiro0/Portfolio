@@ -584,7 +584,7 @@ nav ul li a:hover {
     grid-column-start: span 2;
     resize: none;
     height: 250px;
-
+    text-wrap: wrap;
 }
 #contact .message-container .user-message button {
     background-color: transparent;
