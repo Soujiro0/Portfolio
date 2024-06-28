@@ -3,7 +3,7 @@
  */
 
 // Entry Point
-toggleSideBar()
+toggleSideBar();
 
 function toggleSideBar() {
     const navigation = document.querySelector('nav');
